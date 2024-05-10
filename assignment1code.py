@@ -1,6 +1,7 @@
 # ENSF 692 Spring 2024
 # Assignment 1 Starter Code
 # Add your name here!
+# Tien Nguyen
 
 studentName = "Sarah Shah"  # Change the contents of this variable to your name (leave the quotation marks).
 
