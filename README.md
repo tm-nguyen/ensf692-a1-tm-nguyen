@@ -1,3 +1,7 @@
+## My Name and Quote
+* Tien Nguyen
+> "Out of life's school of war, what doesn't kill me, makes me stronger." (Friedrich Nietzsche) <!-- My quote -->
+
 ## 📝 ENSF 692 - Assignment 1 Tasks
 * Open VSCode and start a new terminal. 
 * Edit this `README` file to add your first and last name, and your favourite inspirational quote.
