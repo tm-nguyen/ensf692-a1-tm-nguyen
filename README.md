@@ -1,5 +1,5 @@
-## My Name and Quote
-* Tien Nguyen
+<!-- My Name and Quote -->
+Tien Nguyen
 > "Out of life's school of war, what doesn't kill me, makes me stronger." (Friedrich Nietzsche) <!-- My quote -->
 
 ## 📝 ENSF 692 - Assignment 1 Tasks
